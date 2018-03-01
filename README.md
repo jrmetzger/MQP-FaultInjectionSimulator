@@ -54,7 +54,7 @@ $ bash run.py
 
 ## History
 
-## Version 1.0
+### Version 1.0
 * Final Submission for Project
 * Colors
 * Select which registers to trigger on
