@@ -1,0 +1,20 @@
+<xml>
+	<action>
+		<bp breakpointAddress="0x3E81C230"/>
+		<masks>
+			<mask>
+				<rg registerList="[r0]"/>
+				<mk op="const" val="0xEB80746F"/>
+			</mask>
+			<mask>
+				<rg registerList="[r1]"/>
+				<mk op="const" val="0x0080000B"/>
+			</mask>
+			<mask>
+				<rg registerList="[r2,r4]"/>
+				<mk op="add" val="1"/>
+			</mask>
+		</masks>
+	</action>
+
+</xml>

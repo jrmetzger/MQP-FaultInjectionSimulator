@@ -1,0 +1,23 @@
+<xml>
+
+	<fault>
+		<addr breakpointAddress="0x3E81C230"/>
+		<trigger>
+			<mask> <rg register="r0"/> <mk op="const" val="0xEB80746F"/> </mask>
+			<mask> <rg register="r1"/> <mk op="const" val="0x0080000B"/> </mask>
+			<mask> <rg register="r2"/> <mk op="add" val="1"/> </mask>
+			<mask> <rg register="r2"/> <mk op="sub" val="200"/> </mask>
+		</trigger>
+	</fault>
+
+	<fault>
+		<addr breakpointAddress="0x33r45er65540"/>
+		<trigger>
+			<mask> <rg register="r4"/> <mk op="add" val="0xEB8rf46F"/> </mask>
+			<mask> <rg register="r2"/> <mk op="const" val="0x0frf000B"/> </mask>
+			<mask> <rg register="r6"/> <mk op="add" val="3"/> </mask>
+			<mask> <rg register="r8"/> <mk op="sub" val="250"/> </mask>
+		</trigger>
+	</fault>
+
+</xml>

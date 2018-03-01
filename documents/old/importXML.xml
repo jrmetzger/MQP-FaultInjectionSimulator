@@ -1,0 +1,244 @@
+<xml>
+	
+	<action>
+		<bp breakpointAddress="test.c:4"/>
+		<lp loopCounter="6"/>
+		<rg registerList="[r3,r0,r1,r2]"/>
+		<mk mask="8"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:5"/>
+		<lp loopCounter="5"/>
+		<rg registerList="[r1,r2,r3,r4]"/>
+		<mk mask="10"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:6"/>
+		<lp loopCounter="4"/>
+		<rg registerList="[r2,r3,r4,r1]"/>
+		<mk mask="12"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:7"/>
+		<lp loopCounter="3"/>
+		<rg registerList="[r3,r4,r1,r2]"/>
+		<mk mask="14"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:8"/>
+		<lp loopCounter="2"/>
+		<rg registerList="[r4,r1,r2,r3]"/>
+		<mk mask="16"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:9"/>
+		<lp loopCounter="1"/>
+		<rg registerList="[r4,r3,r2,r1]"/>
+		<mk mask="18"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:10"/>
+		<lp loopCounter="10"/>
+		<rg registerList="[r3,r2,r1,r0]"/>
+		<mk mask="20"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:1"/>
+		<lp loopCounter="9"/>
+		<rg registerList="[r0,r1,r2,r3]"/>
+		<mk mask="2"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:2"/>
+		<lp loopCounter="8"/>
+		<rg registerList="[r1,r2,r3,r0]"/>
+		<mk mask="4"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:3"/>
+		<lp loopCounter="7"/>
+		<rg registerList="[r2,r3,r0,r1]"/>
+		<mk mask="6"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:4"/>
+		<lp loopCounter="6"/>
+		<rg registerList="[r3,r0,r1,r2]"/>
+		<mk mask="8"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:7"/>
+		<lp loopCounter="3"/>
+		<rg registerList="[r3,r4,r1,r2]"/>
+		<mk mask="14"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:8"/>
+		<lp loopCounter="2"/>
+		<rg registerList="[r4,r1,r2,r3]"/>
+		<mk mask="16"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:9"/>
+		<lp loopCounter="1"/>
+		<rg registerList="[r4,r3,r2,r1]"/>
+		<mk mask="18"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:10"/>
+		<lp loopCounter="10"/>
+		<rg registerList="[r3,r2,r1,r0]"/>
+		<mk mask="20"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:1"/>
+		<lp loopCounter="9"/>
+		<rg registerList="[r0,r1,r2,r3]"/>
+		<mk mask="2"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:2"/>
+		<lp loopCounter="8"/>
+		<rg registerList="[r1,r2,r3,r0]"/>
+		<mk mask="4"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:3"/>
+		<lp loopCounter="7"/>
+		<rg registerList="[r2,r3,r0,r1]"/>
+		<mk mask="6"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:4"/>
+		<lp loopCounter="6"/>
+		<rg registerList="[r3,r0,r1,r2]"/>
+		<mk mask="8"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:5"/>
+		<lp loopCounter="5"/>
+		<rg registerList="[r1,r2,r3,r4]"/>
+		<mk mask="10"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:6"/>
+		<lp loopCounter="4"/>
+		<rg registerList="[r2,r3,r4,r1]"/>
+		<mk mask="12"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:7"/>
+		<lp loopCounter="3"/>
+		<rg registerList="[r3,r4,r1,r2]"/>
+		<mk mask="14"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:8"/>
+		<lp loopCounter="2"/>
+		<rg registerList="[r4,r1,r2,r3]"/>
+		<mk mask="16"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:9"/>
+		<lp loopCounter="1"/>
+		<rg registerList="[r4,r3,r2,r1]"/>
+		<mk mask="18"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:10"/>
+		<lp loopCounter="10"/>
+		<rg registerList="[r3,r2,r1,r0]"/>
+		<mk mask="20"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:1"/>
+		<lp loopCounter="9"/>
+		<rg registerList="[r0,r1,r2,r3]"/>
+		<mk mask="2"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:2"/>
+		<lp loopCounter="8"/>
+		<rg registerList="[r1,r2,r3,r0]"/>
+		<mk mask="4"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:3"/>
+		<lp loopCounter="7"/>
+		<rg registerList="[r2,r3,r0,r1]"/>
+		<mk mask="6"/>
+	</action>
+		<action>
+		<bp breakpointAddress="test.c:10"/>
+		<lp loopCounter="10"/>
+		<rg registerList="[r3,r2,r1,r0]"/>
+		<mk mask="20"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:1"/>
+		<lp loopCounter="9"/>
+		<rg registerList="[r0,r1,r2,r3]"/>
+		<mk mask="2"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:2"/>
+		<lp loopCounter="8"/>
+		<rg registerList="[r1,r2,r3,r0]"/>
+		<mk mask="4"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:3"/>
+		<lp loopCounter="7"/>
+		<rg registerList="[r2,r3,r0,r1]"/>
+		<mk mask="6"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:5"/>
+		<lp loopCounter="5"/>
+		<rg registerList="[r1,r2,r3,r4]"/>
+		<mk mask="10"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:6"/>
+		<lp loopCounter="4"/>
+		<rg registerList="[r2,r3,r4,r1]"/>
+		<mk mask="12"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:4"/>
+		<lp loopCounter="6"/>
+		<rg registerList="[r3,r0,r1,r2]"/>
+		<mk mask="8"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:5"/>
+		<lp loopCounter="5"/>
+		<rg registerList="[r1,r2,r3,r4]"/>
+		<mk mask="10"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:6"/>
+		<lp loopCounter="4"/>
+		<rg registerList="[r2,r3,r4,r1]"/>
+		<mk mask="12"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:7"/>
+		<lp loopCounter="3"/>
+		<rg registerList="[r3,r4,r1,r2]"/>
+		<mk mask="14"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:8"/>
+		<lp loopCounter="2"/>
+		<rg registerList="[r4,r1,r2,r3]"/>
+		<mk mask="16"/>
+	</action>
+	<action>
+		<bp breakpointAddress="test.c:9"/>
+		<lp loopCounter="1"/>
+		<rg registerList="[r4,r3,r2,r1]"/>
+		<mk mask="18"/>
+	</action>
+
+</xml>

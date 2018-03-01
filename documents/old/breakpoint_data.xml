@@ -1,0 +1,43 @@
+<xml>
+
+	<fault>
+		<addr breakpointAddress="0x000105d8"/>
+		<trigger>
+			<mask> <rg register="r0"/> <mk op="const" val="5"/> </mask>
+			<mask> <rg register="r4"/> <mk op="const" val="3"/> </mask>
+			<mask> <rg register="r1"/> <mk op="add" val="4"/> </mask>
+			<mask> <rg register="sp"/> <mk op="sub" val="6"/> </mask>
+		</trigger>
+	</fault>
+
+	<fault>
+		<addr breakpointAddress="0x000105dc"/>
+		<trigger>
+			<mask> <rg register="r2"/> <mk op="add" val="250"/> </mask>
+			<mask> <rg register="r3"/> <mk op="const" val="453"/> </mask>
+			<mask> <rg register="r1"/> <mk op="add" val="3"/> </mask>
+			<mask> <rg register="pc"/> <mk op="const" val="763"/> </mask>
+		</trigger>
+	</fault>
+
+	<fault>
+		<addr breakpointAddress="0x000105f8"/>
+		<trigger>
+			<mask> <rg register="r8"/> <mk op="add" val="23"/> </mask>
+			<mask> <rg register="r9"/> <mk op="add" val="420"/> </mask>
+			<mask> <rg register="r10"/> <mk op="const" val="457"/> </mask>
+			<mask> <rg register="r11"/> <mk op="const" val="0x634cba34"/> </mask>
+		</trigger>
+	</fault>
+
+	<fault>
+		<addr breakpointAddress="0x00010600"/>
+		<trigger>
+			<mask> <rg register="r12"/> <mk op="const" val="0x34c67a9d"/> </mask>
+			<mask> <rg register="r1"/> <mk op="add" val="420"/> </mask>
+			<mask> <rg register="r4"/> <mk op="const" val="0xc24bb643"/> </mask>
+			<mask> <rg register="r5"/> <mk op="add" val="45"/> </mask>
+		</trigger>
+	</fault>
+
+</xml>
