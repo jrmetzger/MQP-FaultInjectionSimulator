@@ -30,6 +30,9 @@ These instructions will get you a copy of the project up and running on your loc
 $ bash run.py
 ```
 
+### DEMO
+https://www.youtube.com/watch?v=y_bjLfMMFvM&feature=youtu.be
+
 ### Running the Fault Injection Simulator
 
 1. Open the Fault Injection Simulator
