@@ -1,6 +1,6 @@
 # Fault Injection Simulator
 
-For our Major Qualifying Project at WPI, we created an application to automate fault injection when there is a glitch. to collect information on a low level. This enabled us to then see if glitching would occur and the registers stay the same.
+For our Major Qualifying Project at Worcester Polytechnic Institute, we helped NVIDIA build a tool to test for glitching in a system (ex. Nintendo Switch Chip). This is important because glitching can cause skipped or corrupted instructions, or code, that can lead to the injection of malware. We tested for possible glitch locations in our system and outputted lines in the code to run on our simulator. The tool became an ineractive application to automate fault injection, or a controlled pause in the system, when a glitch occurs. Our application is called The Fault Injection Simulator.
 
 ## Authors
 * Jon Metzger
