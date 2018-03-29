@@ -25,9 +25,14 @@ These instructions will get you a copy of the project up and running on your loc
 * documents
   * files to import
 
+### Prerequisites
+```
+install arm-none-eabi-gdb
+```
+
 ### Running the Application
 ```
-$ bash run.py
+$ bash ./run.py
 ```
 
 ### DEMO
