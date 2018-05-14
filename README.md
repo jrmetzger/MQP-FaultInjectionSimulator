@@ -35,6 +35,9 @@ install arm-none-eabi-gdb
 $ bash ./run.py
 ```
 
+### FINAL PRESENTATION
+https://drive.google.com/open?id=1gd3oE2DPA96Oc7DNGh3K5a7tDNZYHjfy
+
 ### DEMO
 https://www.youtube.com/watch?v=y_bjLfMMFvM&feature=youtu.be
 
